@@ -27,6 +27,6 @@ Predictive Modeling:
 Developed linear regression models to predict salaries based on age, years of experience, and education level.
 Evaluated model performance using metrics such as Mean Squared Error (MSE) and R-squared.
 
-Conclusion
+Conclusion:
 This project provides valuable insights into salary dynamics and offers a predictive framework for anticipating salary trends based on demographic and professional attributes.
 
