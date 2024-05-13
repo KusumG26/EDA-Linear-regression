@@ -11,19 +11,19 @@ Age
 Salary
 Years of Experience
 Education Level
-Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA):
 Conducted in-depth analysis of the dataset to uncover insights regarding salary distribution, gender pay disparities, and the influence of age, experience, and education on salary levels.
 Utilized various visualization techniques including histograms, box plots, scatter plots, and correlation analyses to elucidate relationships among different variables.
 
-Gender Pay Disparity
+Gender Pay Disparity:
 Investigated potential salary discrepancies between genders through statistical tests and visualizations.
 
-Age and Experience Dynamics
+Age and Experience Dynamics: 
 Explored the relationship between age, years of experience, and salary to identify trends and patterns in career trajectories.
 Education Level Influence
 Assessed the impact of education level on salary and examined the correlation between higher education and earning potential.
 
-Predictive Modeling
+Predictive Modeling:
 Developed linear regression models to predict salaries based on age, years of experience, and education level.
 Evaluated model performance using metrics such as Mean Squared Error (MSE) and R-squared.
 
